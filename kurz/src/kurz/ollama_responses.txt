@@ -1,0 +1,6 @@
+Movie: pocahontas_subtitles
+ Based on the given subtitles, it appears that the clip with the most intense emotion is the second one. The words and expressions used in this clip such as "Get the gun!", "Traitors!", "Unhand me, I say! How dare you!" suggest a high level of anger.
+
+Here is the id of the subtitle section for this clip:
+Start Time: 0 days 01:07:03.860000, End Time: 0 days 01:07:53.660000
+

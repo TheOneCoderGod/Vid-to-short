@@ -1,0 +1,6 @@
+kurz/src/kurz/dataset
+venv
+poetry.lock
+__pycache__
+.DS_STORE
+kurz-recommendation-api/src/dataset/
